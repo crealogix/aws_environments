@@ -1,9 +1,9 @@
 # Backstage integrated AWS account provisioning
-This repo extends the example solution from [aws_management](https://github.com/tamer84/aws_management).
+This repo extends the example solution from [aws_management](https://github.com/crealogix/aws_management).
 The main focus of this repo is the automated resource provisioning within accounts.
 
 ## Getting started
-This project builds upon the implementation hosted in the  [aws_management](https://github.com/tamer84/aws_management) repo.  
+This project builds upon the implementation hosted in the  [aws_management](https://github.com/crealogix/aws_management) repo.  
 Once the OU and account automation is in place, and at least one account has been created, you can proceed with this setup.  
 Fork this repo into your own GitHub org and continue.
 
